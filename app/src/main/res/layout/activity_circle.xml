@@ -42,9 +42,7 @@
 
             <RelativeLayout
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-
-                >
+                android:layout_height="wrap_content">
 
                 <ImageView
                     android:layout_width="wrap_content"
@@ -97,9 +95,7 @@
                     android:layout_height="@dimen/small_circle_layout"
                     android:layout_weight="1"
                     android:contentDescription="@string/circle"
-                    android:src="@drawable/picgreen"
-
-                    />
+                    android:src="@drawable/picgreen" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -123,9 +119,7 @@
                     android:layout_height="@dimen/small_circle_layout"
                     android:layout_weight="1"
                     android:contentDescription="@string/circle"
-                    android:src="@drawable/blue"
-
-                    />
+                    android:src="@drawable/blue" />
 
                 <TextView
                     android:layout_width="match_parent"
@@ -163,6 +157,7 @@
             </LinearLayout>
 
         </LinearLayout>
+
 
     </LinearLayout>
 </ScrollView>

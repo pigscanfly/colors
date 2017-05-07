@@ -3,8 +3,8 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="main_text">30sp</dimen>
-    <dimen name="side_text">18dp</dimen>
-    <dimen name="small_text">15dp</dimen>
+    <dimen name="side_text">18sp</dimen>
+    <dimen name="small_text">15sp</dimen>
     <dimen name="padding_circle">100dp</dimen>
     <dimen name="small_circle_layout">30dp</dimen>
     <dimen name="padding_small">4dp</dimen>
