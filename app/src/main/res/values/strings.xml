@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">colors</string>
+    <string name="company_name">Artfolio</string>
+    <string name="company_description">We offer over 200 unique paint colors for artists.</string>
+    <string name="opening_hours">Opening hours: Mo. to Fr. 8:00 to 17:00</string>
+    <string name="address">Address: Krenova 70, Brno, Czech Republic</string>
+    <string name="phone">Phone number: +420603332930</string>
+    <string name="circle">Circle</string>
+
+</resources>
